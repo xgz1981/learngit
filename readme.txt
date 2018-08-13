@@ -1,1 +1,25 @@
-<script type="text/javascript" src="/EPDIntegrator_v1.0/static/js/easyui/extend/js/easyui-extend.js?_=1533716355646" charset="utf-8"></script>
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+172.16.32.239 pdmdev.envisioncn.com
+172.16.32.178 plmtest178.envisioncn.com
+0.0.0.0 account.jetbrains.com
